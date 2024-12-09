@@ -1,19 +1,19 @@
-# Book Social Network
+# Novel Network
 
 ## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-    - [Backend (book-social-network)](#backend-book-social-network)
-    - [Frontend (book-social-network-ui)](#frontend-book-social-network-ui)
+    - [Backend (Novel-Network)](#backend-book-social-network)
+    - [Frontend (Novel-Network-ui)](#frontend-book-social-network-ui)
 - [Objectives](#objectives)
 - [Getting Started](#getting-started)
 
 
 ## Overview
 
-Book Social Network is a full-stack application that enables users to manage their book collections and engage with a community of book enthusiasts. It offers features such as user registration, secure email validation, book management (including creation, updating, sharing, and archiving), book borrowing with checks for availability, book return functionality, and approval of book returns. The application ensures security using JWT tokens and adheres to best practices in REST API design. The backend is built with Spring Boot 3 and Spring Security 6, while the frontend is developed using Angular with Bootstrap for styling.
+Novel Network is a full-stack application that enables users to manage their book collections and engage with a community of book enthusiasts. It offers features such as user registration, secure email validation, book management (including creation, updating, sharing, and archiving), book borrowing with checks for availability, book return functionality, and approval of book returns. The application ensures security using JWT tokens and adheres to best practices in REST API design. The backend is built with Spring Boot 3 and Spring Security 6, while the frontend is developed using Angular with Bootstrap for styling.
 
 ## Features
 
