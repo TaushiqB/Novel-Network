@@ -84,3 +84,8 @@ To get started with the Book Social Network project, follow the setup instructio
 - [Backend Setup Instructions](/book-network/README.md)
 - [Frontend Setup Instructions](book-network-ui/README.md)
 
+## ACKNOWLEDGEMENT
+
+Thanks to Ali Bouali's Tutorial.
+
+
